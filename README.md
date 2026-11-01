@@ -1,4 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahzaib%20Muzaffar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Shahzaib Muzaffar" />
+<div align="center">
+
+![Anime transformation](assets/transformation.gif)
+
+</div>
 
 <div align="center">
 
